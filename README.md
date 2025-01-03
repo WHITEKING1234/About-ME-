@@ -1,5 +1,5 @@
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/aDS8SjVtS3Mwo/giphy.gif?cid=ecf05e47w21vlmbtkvcnxk4g0upw6dkojzjfz2mrvkl6gj55&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img hight="100" width="400" alt="GIF" align="center" src="https://media.giphy.com/media/aDS8SjVtS3Mwo/giphy.gif?cid=ecf05e47w21vlmbtkvcnxk4g0upw6dkojzjfz2mrvkl6gj55&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <h1 align="center">Hi 👋, I'm Akbar Roziev</h1>
 <h3 align="center">I am an iOS developer passionate about creating user-friendly and efficient mobile applications. With expertise in Swift and a growing knowledge of Java, I strive to deliver high-quality apps that meet user needs and business goals."</h3>
 
