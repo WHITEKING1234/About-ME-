@@ -1,3 +1,5 @@
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/aDS8SjVtS3Mwo/giphy.gif?cid=ecf05e47w21vlmbtkvcnxk4g0upw6dkojzjfz2mrvkl6gj55&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <h1 align="center">Hi 👋, I'm Akbar Roziev</h1>
 <h3 align="center">I am an iOS developer passionate about creating user-friendly and efficient mobile applications. With expertise in Swift and a growing knowledge of Java, I strive to deliver high-quality apps that meet user needs and business goals."</h3>
 
@@ -13,7 +15,7 @@
 
 ### - I'm 21 years old and I am from Kyrgyzstan 🇰🇬 
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/aDS8SjVtS3Mwo/giphy.gif?cid=ecf05e47w21vlmbtkvcnxk4g0upw6dkojzjfz2mrvkl6gj55&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img hight="400" width="500" alt="GIF" align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZoN3MyMWg3aHJkc2J3NWpvdXlzZ3czejlmOTAwMm12emw1OXNxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6DNtXFxz7RHxK/giphy.webp">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
