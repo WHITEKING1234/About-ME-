@@ -18,14 +18,15 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZoN3MyMWg3aHJkc2J3NWpvdXlzZ3czejlmOTAwMm12emw1OXNxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6DNtXFxz7RHxK/giphy.webp">
 
 ### - Learning :
+- ✨ Swift
+- ✨ Java
+- ✨ English
 - ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
 
 ### - Hobbies : 
-- ✨ Gaming Addict
 - ✨ Watching Anime
 - ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Sports(Boxing, CrossFit)
 
 </br>
 </br>
